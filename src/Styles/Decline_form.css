@@ -176,8 +176,23 @@ line-height: 19px;
 
 }
 
-@media only screen and (max-width: 379px) and (min-width: 300px) 
+@media only screen and (max-width: 384px) and (min-width: 300px) 
 {
+
+    .btn7_1{
+        font-size: 12px;
+
+
+        width: 79px;
+/* height: 32px; */
+/* height: 30px; */
+
+    }
+
+    .btn7_2{
+        font-size: 12px;
+        width: 79px;
+    }
     .card_13{
         font-size:13px;
     }
