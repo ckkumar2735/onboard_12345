@@ -20,7 +20,7 @@ const DeclineForm = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-8">
-            <h1>Thank You for Declining!</h1>
+            <h1>Thank You !</h1>
             {/* Add any additional content or components */}
           </div>
         </div>
@@ -90,7 +90,7 @@ const DeclineForm = () => {
                 <button type="button" className="btn7_1" onClick={handleNextDecline}>
                   Yes, Decline
                 </button>
-                <span className="mx-3"></span>
+                <span className="mx-2"></span>
                 <button type="button" className="btn7_2" onClick={handlePreviousPage}>
                   No, Go Back
                 </button>
